@@ -1,0 +1,77 @@
+.div{
+    border: 2px black solid;
+    background-color: bisque;
+    margin: 20px;
+}
+.c1{
+    margin: 30px;
+    margin-bottom: -15px;
+}
+.c11{
+    border: 2px red solid;
+    background-color: aqua;
+    padding: 20px ;
+    width: 60px; height: 20px;
+
+    margin: ;
+    border-radius: 30px;
+}
+.c2{
+    margin: 160px;
+    margin-bottom: -130px;
+    margin-top: 0px;
+
+  
+}
+.c22{
+    border: 2px solid blue;
+    background-color: rgb(209, 89, 151);
+    padding: 20px;
+    margin: 140px;
+    width: 60px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
+.c3{
+    margin: 270px;
+    margin-bottom: -250px;
+    margin-top: 0px;
+}
+.c33{
+    border: 2px teal solid;
+    width: 60px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: blueviolet;
+    margin: 250px;
+    margin-bottom: 50px;
+    
+}
+.c4{
+    margin: 380px;
+    margin-bottom: -360px;
+    margin-top: 0px;
+    
+}
+.c44{
+    border: 2px brown solid;
+    width: 60px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: cadetblue;
+    margin: 360px;
+    margin-bottom: 50px;
+}
+.c5{
+    margin: 570px;
+    margin-bottom: -545px;
+    margin-top: 0px;
+}
+.c55{
+    border: 2px solid black;
+    width: 60px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: aquamarine;
+    margin: 550px;
+}
