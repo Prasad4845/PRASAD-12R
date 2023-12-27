@@ -1,6 +1,6 @@
 .div{
     border: 2px black solid;
-    background-color: bisque;
+    background-color: yellow;
     margin: 20px;
 }
 .c1{
@@ -8,22 +8,22 @@
     margin-bottom: -15px;
 }
 .c11{
-    border: 2px red solid;
-    background-color: aqua;
+    border: 2px blue solid;
+    background-color: red;
     padding: 20px ;
     width: 60px; height: 20px;
     border-radius: 30px;
 }
 .c2{
     margin: 160px;
-    margin-bottom: -130px;
+    margin-bottom: -160px;
     margin-top: 0px;
 
   
 }
 .c22{
     border: 2px solid blue;
-    background-color: rgb(209, 89, 151);
+    background-color: rgb(54, 214, 75);
     padding: 20px;
     margin: 140px;
     width: 60px;
@@ -40,7 +40,7 @@
     width: 60px;
     padding: 20px;
     border-radius: 30px;
-    background-color: blueviolet;
+    background-color: rgb(182, 34, 123);
     margin: 250px;
     margin-bottom: 50px;
     
@@ -70,6 +70,7 @@
     width: 60px;
     padding: 20px;
     border-radius: 30px;
-    background-color: aquamarine;
+    background-color: violet;
     margin: 550px;
+    margin-bottom: 250px;
 }
